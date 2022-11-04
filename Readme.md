@@ -7,5 +7,5 @@ Plain Text Lorem80
 Hello World
 
 ## Local Development in Main Branch 
-Text added
-1. Open index.html in browser
+
+1. push code to main branch
